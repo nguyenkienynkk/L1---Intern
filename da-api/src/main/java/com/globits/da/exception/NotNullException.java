@@ -2,7 +2,6 @@ package com.globits.da.exception;
 
 import com.globits.da.validation.ErrorValidation;
 import lombok.Data;
-import lombok.Getter;
 
 @Data
 public class NotNullException extends RuntimeException {

@@ -15,7 +15,7 @@ import java.util.UUID;
 @RequestMapping("/communes")
 @RequiredArgsConstructor
 @FieldDefaults(level = AccessLevel.PRIVATE, makeFinal = true)
-public class CommuneController {
+public class RestCommuneController {
     CommuneService communeService;
 
     @PostMapping

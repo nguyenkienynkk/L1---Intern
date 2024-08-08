@@ -1,0 +1,36 @@
+
+•
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(§ÅÚ¡J$650972a6-94c0-4f06-b4e1-280b486d9a94
+•
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù‘ñJ$8bd89ece-e022-4ab2-8c14-e76b3127e361
+•
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù‘ñJ$fd111f97-10fe-4b06-b0a3-dc68a6663a19
+•
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù‘ñJ$f2e55605-4633-42ee-929b-e0116053ab80
+š
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÃ¼ÕıÿÿÿÿJ$1bbc13cb-aad0-46e7-9df7-3e4810819d36
+”
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(Äå'J$8eb5d58c-2163-48ee-8c90-fd0b22d655e2
+š
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê’õÂıÿÿÿÿJ$c192fd38-8895-4466-8249-1f47822977a6
+š
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿî»øÿÿÿÿJ$961a5acf-f975-4d2b-a675-f312e8935d2a
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$9dc3605b-716a-4490-8b45-e12a7df83f2f
+„
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(œ ßJ$9096f337-53db-490f-801a-a10d93ff9c2b
+‹
+java:S4488&"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ßƒµ¢şÿÿÿÿJ$ebd37115-ab1f-4765-85b4-737c0a11abde
+„
+java:S4488-"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(Õç¼ñJ$17767edc-a23d-413d-bd75-70391faa541c
+„
+java:S44884"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ğÄâÿJ$c6a01c29-756f-49bb-b577-27b945e607d2
+Š
+java:S4488;"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(•“ÛÏJ$fa7a09bf-a73e-496b-a4d4-9dc53a261033
+„
+java:S4488B"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ç¼J$42f14888-76fb-4dfb-9a9e-653c815c2009
+‹
+java:S4488I"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(öıéİùÿÿÿÿJ$70b5d892-5860-4627-8199-e59756773e9b
+‰
+java:S4488P"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ääîªşÿÿÿÿJ$96088734-838d-4cf4-babd-47eb23c2db3d
+w	java:S125X"<This block of commented-out lines of code should be removed.(Ú°à¬J$35f68d73-db8c-4a0e-99d3-56c7639f2770

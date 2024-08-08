@@ -1,0 +1,18 @@
+
+o
+java:S2755p"3Disable access to external entities in XML parsing.(´€ðýJ$6efca5f4-fda9-400a-b41c-2e2e33f844f4
+Â
+java:S1186F"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Àø’ìúÿÿÿÿJ$7821f4fc-bffc-4c30-99f4-3db3266eac32
+~
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄÞJ$a0d5f4cf-de6c-4537-812e-b7aefcaae296
+~
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄÞJ$f9708928-c573-4640-b688-7b436943b1bb
+~
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄÞJ$8b9539c1-2291-4e62-aaea-74063dfff8a6
+|	java:S125,"<This block of commented-out lines of code should be removed.(Öµ£ùÿÿÿÿJ$a016feda-8ede-4b4e-812d-0e3553adc455
+w
+java:S26969"6Make the enclosing method "static" or remove this set.(Õ´ßŒÿÿÿÿÿJ$9e0e1a96-8b47-4f32-991e-6342ee67e685
+w	java:S125S"<This block of commented-out lines of code should be removed.(­ô‰÷J$7045392a-2b76-45ee-8f82-2864763b123a
+b	java:S131y""Add a default case to this switch.(š¶‘ûÿÿÿÿJ$9d9fb716-b7b8-4b9d-9c82-c5d0c6a3ba3f
+Œ
+java:S1301y"KReplace this "switch" statement by "if" statements to increase readability.(š¶‘ûÿÿÿÿJ$61889fc9-a043-406f-acc2-5e42526fb1a5

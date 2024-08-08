@@ -1,0 +1,9 @@
+
+	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8éÖàı€2J$4a82e02d-ddbf-4afc-a0e6-1a7585aa7c2e
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8õÖàı€2J$3e36442e-3676-462f-8929-a79de625b5df
+m	java:S1068"+Replace this use of System.out by a logger.(ñ«¢À8úÖàı€2J$51d09005-d1c3-4a26-800c-b413039c0f0d
+r	java:S106Y"+Replace this use of System.out by a logger.(Şš³‰úÿÿÿÿ8‚×àı€2J$95a62509-f78a-4118-a21e-e96a03f7fb9c
+m	java:S106Z"+Replace this use of System.out by a logger.(‡¿¬²8‚×àı€2J$7adfaa6b-b655-43de-baa0-19f99fe3cc2d
+r	java:S106["+Replace this use of System.out by a logger.(ÎıĞòüÿÿÿÿ8‚×àı€2J$c8bbb4b2-56de-44c7-accb-af9d27411617
+r	java:S106f"+Replace this use of System.out by a logger.(·¸ùÇúÿÿÿÿ8…×àı€2J$6f3ba892-7f51-4db1-911d-272f3ad71ada

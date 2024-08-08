@@ -1,0 +1,15 @@
+
+š
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(•È«õüÿÿÿÿJ$964ff771-dac9-430c-b9c8-caa5c5023cf7
+¦
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿJ$9a0c1079-7cf4-435a-9782-d29c1f922f81
+Š
+java:S4488 "NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(ðŒžÎJ$32adf059-c964-4305-b51f-f90502cedbc2
+‰
+java:S4488*"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÇÌµ‘þÿÿÿÿJ$4b52eb34-2397-4ab8-bbe0-5c40ce2abc73
+…
+java:S4488:"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ó¸åJJ$a3693ed9-bf0c-4604-a531-0f17d92f4cd2
+†
+java:S4488D"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ž³¤ºJ$a653e782-500b-499d-9610-40abe4a975ed
+‰
+java:S4488J"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(„£´ÏùÿÿÿÿJ$cffe0029-c658-45f3-b06e-5ae1bf438692

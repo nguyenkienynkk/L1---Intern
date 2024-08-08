@@ -1,0 +1,19 @@
+
+~
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄÞJ$afb57666-4c52-4322-a886-596ad4069de9
+~
+java:S68130"BRemove this field injection and use constructor injection instead.(êæÄÞJ$741d3087-699a-4055-9a63-3a2f85fd1059
+~
+java:S6813:"BRemove this field injection and use constructor injection instead.(êæÄÞJ$6883c834-06f4-4f9e-820c-6b14b5fc044d
+w	java:S125F"<This block of commented-out lines of code should be removed.(¯ÂÚÅJ$6d0a466e-9325-412b-9ca9-902416fc8562
+v	java:S125s"<This block of commented-out lines of code should be removed.(“ÜŽOJ$7eec8ba6-17af-4c68-b3a6-b0404fe01ad6
+‚
+java:S1128"FRemove this unused import 'org.springframework.core.annotation.Order'.(ÖŽ¨æJ$31da3c9d-8525-49a1-bca1-4f65a11b1f16
+
+java:S1128"@Remove this unused import 'org.springframework.http.HttpMethod'.(Ê¨Ä¡øÿÿÿÿJ$3750ed58-39d6-4c0e-83b1-338932d9fde4
+”
+java:S1128"XRemove this unused import 'org.springframework.jdbc.datasource.DriverManagerDataSource'.(æ´Ô½J$d2115839-0219-4ae0-8486-9ce8593bfc9f
+š
+java:S1128"YRemove this unused import 'org.springframework.security.crypto.password.PasswordEncoder'.(‰¡ßáÿÿÿÿÿJ$52b6977a-11ca-4bf4-99e0-fd05c86dca6d
+ª
+java:S1128"iRemove this unused import 'org.springframework.security.oauth2.provider.client.JdbcClientDetailsService'.(‡‰…›úÿÿÿÿJ$9306627c-93bd-41b0-99a8-7234b169308f

@@ -1,0 +1,14 @@
+
+—
+java:S11927"TDefine a constant instead of duplicating this literal "Invalid District ID" 3 times.(ÔÀå¤8˜óº„“2J$097b9a93-d203-40b3-989e-ebbb04e10a61
+ƒ	java:S125["<This block of commented-out lines of code should be removed.(õíÔ×ûÿÿÿÿ8®Şøˆ“2J$cdc62cdb-ee59-4ecf-8b1a-3cfd0393a7ad
+\
+java:S1128":Remove this unused import 'com.globits.da.domain.Commune'.(±æñŒûÿÿÿÿ8Îˆùˆ“2
+e
+java:S1128"IRemove this unused import 'com.globits.da.dto.request.CommuneRequestDTO'.(ñ¡¦)8Îˆùˆ“2
+i
+java:S1128	"GRemove this unused import 'com.globits.da.exception.NotFoundException'.(ÏÁÜúÿÿÿÿ8Îˆùˆ“2
+c
+java:S1128"FRemove this unused import 'com.globits.da.validation.ErrorValidation'.(Ùí‘à8Îˆùˆ“2
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8Îˆùˆ“2

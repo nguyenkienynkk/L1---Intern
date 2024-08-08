@@ -1,0 +1,8 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Þ×øá
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©äÔž
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ðµ’¶úÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©‰ö•
+m
+java:S2786	"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(¨¨êÆøÿÿÿÿ

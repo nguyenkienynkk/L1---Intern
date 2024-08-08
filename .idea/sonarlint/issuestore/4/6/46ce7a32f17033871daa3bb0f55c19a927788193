@@ -1,0 +1,15 @@
+
+†	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(åÔ¾’ûÿÿÿÿJ$6de2c96d-7b99-465e-8e97-670d6b8eb49c
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$7c344a90-b8ee-4b23-9ae1-b691ab5b5f73
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$5d1f09f8-f83a-4ab7-a221-3920d1c4822f
+­
+java:S1130#"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(åÔ¾’ûÿÿÿÿJ$bc5d3097-0cfc-4fad-83a3-8bbb2c99b750
+w	java:S1254"<This block of commented-out lines of code should be removed.(þ·À¤J$b53c4c98-6074-4bf9-acbc-f5b780c122d1
+¥
+java:S4601F"jReorder the URL patterns from most to less specific, the pattern "/api/**" should occurs before "/api/**".(üìÌJ$f15c2a61-6272-48be-b535-6d0c01a446b7
+ 
+java:S1128"_Remove this unused import 'org.springframework.boot.autoconfigure.security.SecurityProperties'.(š©˜àÿÿÿÿÿJ$3aa93f17-f95b-4bc1-9a2f-44cd508bab94
+‚
+java:S1128"FRemove this unused import 'org.springframework.core.annotation.Order'.(ÖŽ¨æJ$d662723f-9885-485e-a49e-8b0ca148f376

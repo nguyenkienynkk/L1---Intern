@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="db20e131-e0a6-4fc6-82ef-4596742e5fe5__lv2" />
+    <option name="reLastEntityCreationPackage" value="da-api/src/main/java/com/globits/da/domain" />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+
+{
+java:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿJ$5420b62d-cc56-46c4-a3de-4123d8330cbf
+•	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©äÔJ$a2c4cad5-fd4a-44f1-bcb4-309d8a681313
+š	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğµ’¶úÿÿÿÿJ$f2386b23-6138-445c-91c4-f209ac9bf8e4
+•	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©‰ö•J$b92431ec-4040-4d38-b411-a2671d1de635
+“
+java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(¨¨êÆøÿÿÿÿJ$e3c14660-7102-4405-9191-4f6ab1c87fe9
+š	java:S115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­ŠûŞüÿÿÿÿJ$ba570f48-d9db-4290-a5b3-4dc49240ea6b
+•	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İÂ–ĞJ$0dbf8b71-22d6-4b34-8577-eedfaaf085bf
+š	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£¿¥©øÿÿÿÿJ$36b5a468-354c-44c7-b438-4cb9d954ae96
+š	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“’˜ïşÿÿÿÿJ$a8c71318-3eba-4d4e-bb76-ec02c7750a43
+
+java:S2786 "RRemove this redundant "static" qualifier; nested enum types are implicitly static.(¡ÙŒÉJ$4a56e8d6-7a21-458a-a364-19b77ac21985
+•	java:S1153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç¢„–J$58de8147-08a2-4840-a987-4132b4454a76
+š	java:S1154"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€³† ùÿÿÿÿJ$99807a3e-a753-45fe-94ca-546169e872b4
+š	java:S1155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…í±»şÿÿÿÿJ$32d7f89e-9adf-4be6-ad2c-78b15cbd5ba7
+š	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ø—³„ÿÿÿÿÿJ$f3978161-6b2a-4e3b-aece-a191018bc9e8
+
+java:S27862"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ÜÌ¨ıJ$2b97d31d-fcb2-42b4-bc0b-68e8bfb4a4d6
