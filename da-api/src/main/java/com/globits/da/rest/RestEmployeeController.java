@@ -18,7 +18,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.multipart.MultipartFile;
 
 import javax.validation.Valid;
 import java.util.List;
@@ -85,6 +87,23 @@ public class RestEmployeeController {
                 .build();
         return ResponseEntity.ok(apiResponse);
     }
+    @PostMapping("/import")
+    public ResponseEntity<ApiResponse<String>> importEmployees(@RequestParam("file") MultipartFile file) {
+        try {
+            employeeService.importEmployees(file);
+            ApiResponse<String> apiResponse = ApiResponse.<String>builder()
+                    .data("Import thành công")
+                    .build();
+            return ResponseEntity.ok(apiResponse);
+        } catch (Exception e) {
+            ApiResponse<String> apiResponse = ApiResponse.<String>builder()
+                    .errorCode(HttpStatus.BAD_REQUEST.name())
+                    .errorMessage(e.getMessage())
+                    .build();
+            return ResponseEntity.badRequest().body(apiResponse);
+        }
+    }
+
 
     @DeleteMapping("/{id}")
     public String deleteEmployee(@PathVariable int id) {

@@ -1,12 +1,8 @@
 package com.globits.da.domain;
-
 import com.globits.core.domain.BaseObject;
 import lombok.*;
-
 import javax.persistence.*;
 import java.util.List;
-import java.util.UUID;
-
 @Entity
 @Getter
 @Setter
