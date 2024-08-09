@@ -32,6 +32,14 @@ public class CommuneServiceImpl implements CommuneService {
         commune = communeRepository.save(commune);
         return communeMapper.toResponse(commune);
     }
+    @Override
+    public List<CommuneResponseDTO> getCommunesByDistrict(UUID districtId) {
+        List<Commune> communes = communeRepository.findByDistrictId(districtId);
+        return communes.stream()
+                .map(communeMapper::toResponse)
+                .collect(Collectors.toList());
+    }
+
 
     @Override
     public CommuneResponseDTO getCommuneById(UUID communeId) {
@@ -49,12 +57,17 @@ public class CommuneServiceImpl implements CommuneService {
 
     @Override
     public CommuneResponseDTO updateCommune(UUID communeId, CommuneRequestDTO requestDTO) {
-        Commune commune = communeRepository.findById(communeId)
-                .orElseThrow(() -> new NotFoundException(ErrorValidation.COMMUNE_ID_NOT_FOUND));
-        communeMapper.updateEntityFromDTO(requestDTO, commune);
-        commune = communeRepository.save(commune);
-        return communeMapper.toResponse(commune);
+        return null;
     }
+
+//    @Override
+//    public CommuneResponseDTO updateCommune(UUID communeId, CommuneRequestDTO requestDTO) {
+//        Commune commune = communeRepository.findById(communeId)
+//                .orElseThrow(() -> new NotFoundException(ErrorValidation.COMMUNE_ID_NOT_FOUND));
+//        communeMapper.updateEntityFromDTO(requestDTO, commune);
+//        commune = communeRepository.save(commune);
+//        return communeMapper.toResponse(commune);
+//    }
 
     @Override
     public void deleteCommune(UUID communeId) {

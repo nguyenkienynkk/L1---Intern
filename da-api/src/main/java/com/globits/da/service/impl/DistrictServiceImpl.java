@@ -1,25 +1,20 @@
 package com.globits.da.service.impl;
 
-import com.globits.da.domain.Commune;
 import com.globits.da.domain.District;
 import com.globits.da.domain.Province;
-import com.globits.da.dto.request.CommuneRequestDTO;
 import com.globits.da.dto.request.DistrictRequestDTO;
 import com.globits.da.dto.response.DistrictResponseDTO;
-import com.globits.da.exception.NotFoundException;
 import com.globits.da.mapper.DistrictMapper;
 import com.globits.da.repository.CommuneRepository;
 import com.globits.da.repository.DistrictRepository;
 import com.globits.da.repository.ProvinceRepository;
 import com.globits.da.service.DistrictService;
-import com.globits.da.validation.ErrorValidation;
 import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;
 import lombok.experimental.FieldDefaults;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.Set;
 import java.util.UUID;
 import java.util.stream.Collectors;
 

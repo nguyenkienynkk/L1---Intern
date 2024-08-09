@@ -1,5 +1,10 @@
 
 i
-java:S3864%"!Remove this use of "Stream.peek".(Ï•®†ùÿÿÿÿ8““˜‰“2J$d1f63e86-d2b8-4f35-ba5d-0ee8efa9d872
-\
-java:S1128":Remove this unused import 'com.globits.da.domain.Commune'.(±æñŒûÿÿÿÿ8¥Ó¢‰“2
+java:S3864+"!Remove this use of "Stream.peek".(Ğä—ùÿÿÿÿ8ÕÚÇ™“2J$f916c387-1e2f-4770-8ce2-1bde1287e44f
+~	java:S125R"<This block of commented-out lines of code should be removed.(€Ì•±8ğë´”“2J$1b03b4a2-5c34-45bd-93d4-01cef7bda7bc
+ˆ
+java:S1128"@Remove this unused import 'com.globits.da.mapper.CommuneMapper'.(Ï³¢øÿÿÿÿ8­¡µ”“2J$92465cfa-a056-4aa1-9e29-a870f3209a11
+Œ
+java:S1128"IRemove this unused import 'com.globits.da.repository.DistrictRepository'.(†ï³“8­¡µ”“2J$c22a692c-021b-4b98-837d-83ce77df73f3
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÂÛ³”“2J$5c130803-56b0-4997-a3dd-9a6bed589c89

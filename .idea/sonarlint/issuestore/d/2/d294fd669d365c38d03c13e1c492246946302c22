@@ -1,5 +1,5 @@
 
-Œ	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´åúJ$7d5c3976-eafd-439b-90e3-94955d8d402d
-—	java:S116"WRename this field "percent_work" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“û”úÿÿÿÿJ$441592fb-1842-4b0f-bd4c-552a78e9dacd
-	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ôµæøÿÿÿÿJ$0021752a-5547-42e4-b8d5-ea3958cd6c5f
-‰	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´åúJ$47e8ebb5-76b5-4e0e-a351-349bdd9887be
+Œ	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´åúJ$4df0dd88-e55e-48d4-9bd7-f173ab46242c
+—	java:S116"WRename this field "percent_work" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“û”úÿÿÿÿJ$c52ea571-eee9-4d81-9717-789fa248fdeb
+	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ôµæøÿÿÿÿJ$2c8739c9-b36e-4916-8551-0d9027501d47
+‰	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´åúJ$8b3f6ae5-3c2c-4b16-b120-146e14a37939

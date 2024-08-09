@@ -2,10 +2,8 @@ package com.globits.da.domain;
 
 import com.globits.core.domain.BaseObject;
 import lombok.*;
-
 import javax.persistence.*;
 import java.util.List;
-import java.util.Set;
 
 @Entity
 @Getter
@@ -14,13 +12,14 @@ import java.util.Set;
 @AllArgsConstructor
 @Table(name = "tbl_district")
 public class District extends BaseObject {
+
     @Column(name = "name")
     private String name;
 
-    @ManyToOne
+    @ManyToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "province_id")
     private Province province;
-    @OneToMany(mappedBy = "district", cascade = CascadeType.REMOVE)
-    private List<Commune> communes;
 
+    @OneToMany(mappedBy = "district", cascade = CascadeType.ALL, fetch = FetchType.EAGER,orphanRemoval = true)
+    private List<Commune> communes;
 }

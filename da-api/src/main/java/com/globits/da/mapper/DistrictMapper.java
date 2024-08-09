@@ -6,7 +6,7 @@ import com.globits.da.dto.response.DistrictResponseDTO;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 
-@Mapper(componentModel = "spring")
+@Mapper(componentModel = "spring", uses = {CommuneMapper.class})
 public interface DistrictMapper {
     @Mapping(source = "province.id", target = "provinceId")
     @Mapping(source = "province.name", target = "provinceName")

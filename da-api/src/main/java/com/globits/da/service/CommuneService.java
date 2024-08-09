@@ -12,4 +12,5 @@ public interface CommuneService {
     List<CommuneResponseDTO> getAllCommunes();
     CommuneResponseDTO updateCommune(UUID communeId, CommuneRequestDTO requestDTO);
     void deleteCommune(UUID communeId);
+    List<CommuneResponseDTO> getCommunesByDistrict(UUID districtId);
 }

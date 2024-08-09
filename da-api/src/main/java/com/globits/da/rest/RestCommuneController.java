@@ -6,6 +6,7 @@ import com.globits.da.service.CommuneService;
 import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;
 import lombok.experimental.FieldDefaults;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -26,6 +27,10 @@ public class RestCommuneController {
     @GetMapping("/{communeId}")
     public CommuneResponseDTO getCommuneById(@PathVariable UUID communeId) {
         return communeService.getCommuneById(communeId);
+    }
+    @GetMapping("/district/{districtId}")
+    public ResponseEntity<List<CommuneResponseDTO>> getCommunesByDistrict(@PathVariable UUID districtId) {
+        return ResponseEntity.ok(communeService.getCommunesByDistrict(districtId));
     }
 
     @GetMapping

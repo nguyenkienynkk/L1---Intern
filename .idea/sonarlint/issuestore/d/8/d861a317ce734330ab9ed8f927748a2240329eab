@@ -1,3 +1,11 @@
 
 ‚
-java:S1128"?Remove this unused import 'com.globits.core.dto.BaseObjectDto'.(Şİ•8­™‘—2J$83fd18d3-3f54-403d-9d03-437e35fe0dc7
+java:S1128"?Remove this unused import 'com.globits.core.dto.BaseObjectDto'.(Şİ•8Ö¬–“2J$789cc8fe-9e59-4cf5-a3cd-35118fc8bad4
+‡
+java:S1128"?Remove this unused import 'javax.validation.constraints.Email'.(¸àô¹üÿÿÿÿ8Ìõô—“2J$824962d9-5edc-4b5f-8f26-4abdbccfd570
+€
+java:S1128"=Remove this unused import 'javax.validation.constraints.Min'.(ã¤½8ğ¶ô—“2J$c2b5f40a-cca8-408e-9865-3f1bb395b5d0
+Š
+java:S1128"BRemove this unused import 'javax.validation.constraints.NotBlank'.(µã‡ıÿÿÿÿ8¬·õ—“2J$87daf781-fca2-4578-afc1-b016ebd7a249
+‰
+java:S1128"ARemove this unused import 'javax.validation.constraints.Pattern'.(¶ò†€øÿÿÿÿ8ş¢õ—“2J$8a0800f2-18d5-42ea-b391-bd92525daab5

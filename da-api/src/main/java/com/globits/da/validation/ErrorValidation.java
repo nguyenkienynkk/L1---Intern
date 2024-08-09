@@ -33,12 +33,15 @@ public enum ErrorValidation {
     DISTRICT_NAME_NOTNULL("D3", "District name cannot be null"),
     DISTRICT_NAME_DUPLICATE("D4", "District name cannot be duplicate"),
     DISTRICT_NOT_IN_PROVINCE("D5", "District is not in province"),
+    DISTRICT_NOT_BELONG_TO_PROVINCE("D6", "District does not belong to the specified province"),
 
     COMMUNE_ID_NOTNULL("C1", "Commune id cannot be null"),
     COMMUNE_ID_NOT_FOUND("C2", "Commune id does not exist"),
     COMMUNE_NAME_NOTNULL("C3", "Commune name cannot be null"),
     COMMUNE_NAME_DUPLICATE("C4", "Commune name cannot be duplicate"),
     COMMUNE_NOT_IN_DISTRICT("C5", "Commune is not in district"),
+    CERTIFICATE_EXCEEDS_LIMIT("CF5", "Employee cannot have more than 3 active certificates of the same type"),
+    COMMUNE_NOT_BELONG_TO_DISTRICT("C6", "Commune does not belong to the specified district"),
 
     CERTIFICATE_ID_NOTNULL("CF1", "Certificate id cannot be null"),
     CERTIFICATE_ID_NOT_FOUND("CF2", "Certificate id does not exist"),
@@ -46,7 +49,9 @@ public enum ErrorValidation {
     CERTIFICATE_NAME_DUPLICATE("CF3", "Certificate name cannot be duplicate"),
     CERTIFICATE_START_DAY_NOTNULL("CF3", "Certificate start day cannot be null"),
     CERTIFICATE_END_DAY_NOTNULL("CF4", "Certificate end day cannot be null"),
-
+    CERTIFICATE_ALREADY_EXISTS_IN_PROVINCE("CF5", "Certificate already exists in the specified province"),
+    MAX_CERTIFICATE_LIMIT_REACHED("CF6", "Employee cannot have more than 3 active certificates of the same type"),
+    CERTIFICATE_ALREADY_EXISTS("CF7","Certificate already exists"),
     CERTIFICATE_DETAIL_ID_NOTNULL("CD1", "Certificate detail id cannot be null"),
     CERTIFICATE_DETAIL_ID_NOT_FOUND("CD2", "Certificate detail id does not exist"),
     CERTIFICATE_DETAIL_IS_BEING_USED("CD3", "Certificate detail is being used by this employee"),
@@ -55,9 +60,11 @@ public enum ErrorValidation {
     EXCEL_FILE_NULL("EX1", "File is null"),
     EXCEL_FILE_WRONG_FORMAT("EX2", "Excel file wrong format"),
     CAN_NOT_EXPORT_EXCEL_FILE("EX3", "Unable to export Excel file");
+
     private final String errorCode;
     private final String errorMessage;
-    ErrorValidation(String errorCode, String errorMessage){
+
+    ErrorValidation(String errorCode, String errorMessage) {
         this.errorCode = errorCode;
         this.errorMessage = errorMessage;
     }

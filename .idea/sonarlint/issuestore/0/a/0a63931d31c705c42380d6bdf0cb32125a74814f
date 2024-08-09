@@ -1,17 +1,17 @@
 
 š
-java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹Ø¢üÿÿÿÿJ$468aa7de-9fdd-4720-9e71-22c62c05258b
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹Ø¢üÿÿÿÿJ$99a23722-11c2-4ac7-8e76-90a911267969
 v
-java:S1141)"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$8295ef17-c48d-433d-8a82-74ec6b1a5abc
+java:S1141)"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$628a1479-23fa-4088-9c3c-1e608153f86e
 “
-java:S2259%"RA "NullPointerException" could be thrown; "getOriginalFilename()" can return null.(—ù‘İûÿÿÿÿJ$a97ac740-38a6-4208-a1e2-3e4f6d132177
+java:S2259%"RA "NullPointerException" could be thrown; "getOriginalFilename()" can return null.(—ù‘İûÿÿÿÿJ$322f8fe0-e6b0-4cf9-91af-2cbeb91cb22f
 ~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$12aa6393-08c7-4195-9b42-d27867416ace
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$6d8d3b5a-9654-48f7-87a5-40bddbb75e3e
 ~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$2b866f48-bb52-4af9-b67e-3956abaa7e81
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$04339011-3261-4204-b104-d30a743d9482
 o
-java:S6837"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼J$7e7550d3-8418-47c1-879c-fdb5281444fe
+java:S6837"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼J$4cf6ecf9-aa02-49e6-9581-321e5ad78364
 †
-java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(øœâ•J$c6948919-480a-41dc-8506-dece512a347e
-k	java:S106-"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$6be01396-cfe4-4a5c-a2b1-233bab4e9d78
-k	java:S1069"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$ef434e60-b1b9-4044-bd03-43939f96dcc2
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(øœâ•J$4057e127-c6cd-43be-96b3-47acf4a29711
+k	java:S106-"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$878754e6-b1f7-4815-bbfc-59c2151eb1cd
+k	java:S1069"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$de804b54-2f64-4283-8815-6b8d7f9d0828

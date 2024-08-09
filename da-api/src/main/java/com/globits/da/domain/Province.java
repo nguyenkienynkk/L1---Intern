@@ -5,7 +5,7 @@ import lombok.*;
 
 import javax.persistence.*;
 import java.util.List;
-import java.util.Set;
+import java.util.UUID;
 
 @Entity
 @Getter
@@ -17,6 +17,7 @@ public class Province extends BaseObject {
     @Column(name = "name")
     private String name;
 
-    @OneToMany(mappedBy = "province", cascade = CascadeType.ALL)
+    @OneToMany(mappedBy = "province", cascade = CascadeType.ALL, fetch = FetchType.EAGER,orphanRemoval = true)
     private List<District> districts;
+
 }

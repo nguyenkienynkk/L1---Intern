@@ -8,6 +8,11 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+import javax.validation.constraints.Email;
+import javax.validation.constraints.Min;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Pattern;
+
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter
@@ -15,11 +20,17 @@ import lombok.Setter;
 @Builder
 public class EmployeeDTO {
     private Integer id;
+
     private String code;
+
     private String name;
+
     private String email;
+
     private String phone;
+
     private Integer age;
+
     public EmployeeDTO(Employee employee){
         if(employee == null){
             return;
